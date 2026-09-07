@@ -5,7 +5,7 @@ about:
   head: d5a4154
   archived: false
   latestVersion: "v0.2.0"
-  collectedAt: 2026-09-07T05:37:00Z
+  collectedAt: 2026-09-07T18:54:31Z
 timeline:
   created: 2026-02-23
   lastCommit: 2026-07-19
@@ -80,7 +80,7 @@ total:
   commit: 60
 ---
 path: /home/runner/.x-repo/github.com/ljh-sh/roff
-collectedAt: 2026-09-07T05:37:00Z
+collectedAt: 2026-09-07T18:54:31Z
 loc:
   Rust:
     code: 2133
@@ -248,7 +248,7 @@ checks:
     details: null
 ---
 eget:
-  collectedAt: 2026-09-07T05:37:01+00:00
+  collectedAt: 2026-09-07T18:54:32+00:00
   platform:
     darwin/arm64:
       name:  roff-aarch64-apple-darwin.tar.xz
