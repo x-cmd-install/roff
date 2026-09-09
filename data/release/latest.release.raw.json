@@ -427,7 +427,7 @@
       "state": "uploaded",
       "size": 249064,
       "digest": "sha256:f4d312bedaf31843da74c4ac03fadeb4871aedcb0fcffab522d8b27c3fd1ce2a",
-      "download_count": 0,
+      "download_count": 1,
       "created_at": "2026-06-25T10:44:29Z",
       "updated_at": "2026-06-25T10:44:30Z",
       "browser_download_url": "https://github.com/ljh-sh/roff/releases/download/v0.2.0/roff-x86_64-unknown-linux-gnu.tar.xz"
