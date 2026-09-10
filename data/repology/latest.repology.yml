@@ -1,0 +1,11 @@
+- repo: openpkg_current
+  srcname: roff
+  visiblename: roff
+  version: "080407"
+  origversion: null
+  status: unique
+  summary: Traditional Unix Typesetting System
+  licenses:
+    - BSD/CDDL
+  categories:
+    - Typesetting
