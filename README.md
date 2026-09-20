@@ -4,7 +4,7 @@
 
 Skillful man page to JSON/Markdown converter - human readable, AI-friendly
 
-![roff](https://repo.x-cmd.io/roff.svg)
+[![x-cmd/install — roff Code Quality Monitoring Repo Card](https://repo.x-cmd.io/roff.svg)](https://x-cmd.com/install/roff)
 
 ## Install
 
@@ -31,8 +31,8 @@ Overall score: **8.6 / 10**
 Lowest-scoring checks:
 
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
-- **Fuzzing** (0/10) — project is not fuzzed
 - **Packaging** (-1/10) — packaging workflow not detected
+- **Fuzzing** (0/10) — project is not fuzzed
 
 ## Source
 
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-07-20 | 0 | 0 | 2 | 0 | 0 | 0 |
-| 90d | 2026-06-20 | 2 | 22 | 7 | 5 | 7 | 27 |
-| last180d | 2026-03-22 | 2 | 29 | 7 | 8 | 11 | 30 |
-| 360d | 2025-09-23 | 2 | 29 | 7 | 8 | 12 | 60 |
-| last720d | 2024-09-28 | 2 | 29 | 7 | 8 | 12 | 60 |
+| 30d | 2026-08-21 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-22 | 0 | 0 | 2 | 0 | 0 | 0 |
+| 90d | 2026-06-22 | 2 | 22 | 7 | 5 | 7 | 13 |
+| last180d | 2026-03-24 | 2 | 29 | 7 | 8 | 11 | 30 |
+| 360d | 2025-09-25 | 2 | 29 | 7 | 8 | 12 | 60 |
+| last720d | 2024-09-30 | 2 | 29 | 7 | 8 | 12 | 60 |
 
 ## Release assets
 
@@ -95,4 +95,4 @@ Install metadata for roff lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T06:00:45Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T06:04:29Z._
