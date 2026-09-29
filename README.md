@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-29 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-07-30 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-06-30 | 0 | 6 | 7 | 0 | 0 | 13 |
-| last180d | 2026-04-01 | 2 | 29 | 7 | 8 | 11 | 30 |
-| 360d | 2025-10-03 | 2 | 29 | 7 | 8 | 12 | 60 |
-| last720d | 2024-10-08 | 2 | 29 | 7 | 8 | 12 | 60 |
+| 30d | 2026-08-30 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-31 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-07-01 | 0 | 6 | 7 | 0 | 0 | 13 |
+| last180d | 2026-04-02 | 2 | 29 | 7 | 8 | 11 | 30 |
+| 360d | 2025-10-04 | 2 | 29 | 7 | 8 | 12 | 60 |
+| last720d | 2024-10-09 | 2 | 29 | 7 | 8 | 12 | 60 |
 
 ## Release assets
 
@@ -95,4 +95,4 @@ Install metadata for roff lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260928.yml` · 2026-09-28T06:20:51Z._
+_Snapshot: `data/card/260929.yml` · 2026-09-29T06:45:02Z._
