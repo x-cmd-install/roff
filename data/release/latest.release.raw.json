@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 237848,
       "digest": "sha256:a0ee259a3981d8641adf9c9c31c5bde9e1e6292807e7876dd3aea74e0bd4ff6b",
-      "download_count": 0,
+      "download_count": 1,
       "created_at": "2026-06-25T10:44:29Z",
       "updated_at": "2026-06-25T10:44:30Z",
       "browser_download_url": "https://github.com/ljh-sh/roff/releases/download/v0.2.0/roff-aarch64-unknown-linux-musl.tar.xz"
@@ -427,7 +427,7 @@
       "state": "uploaded",
       "size": 249064,
       "digest": "sha256:f4d312bedaf31843da74c4ac03fadeb4871aedcb0fcffab522d8b27c3fd1ce2a",
-      "download_count": 70,
+      "download_count": 72,
       "created_at": "2026-06-25T10:44:29Z",
       "updated_at": "2026-06-25T10:44:30Z",
       "browser_download_url": "https://github.com/ljh-sh/roff/releases/download/v0.2.0/roff-x86_64-unknown-linux-gnu.tar.xz"
